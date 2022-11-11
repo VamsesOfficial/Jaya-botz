@@ -111,7 +111,7 @@ await conn.reply(m.chat, info, fvn, { contextInfo: { externalAdReply: { showAdAt
     description: syt,
     title: `Jangan Diplay ${name}!!!`,
     body: `⚠️ 𝐃𝐀𝐍𝐆𝐄𝐑 ⚠️`,
-    thumbnail: await(await fetch("https://telegra.ph/file/c080917609684bf229cd3.jpg")).buffer(),
+    thumbnail: await(await fetch("https://i.ibb.co/7kSnyh8/IMG-20221111-104556.jpg")).buffer(),
     sourceUrl: syt
   }
   } }) 
