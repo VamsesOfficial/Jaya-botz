@@ -58,7 +58,7 @@ let fpayment = {
       "requestFrom": "0@s.whatsapp.net",
       "noteMessage": {
         "extendedTextMessage": {
-          "text": "𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌𝐃 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥"
+          "text": "Jaya-Botz"
         }
       },
       "expiryTimestamp": fsizedoc,
@@ -95,13 +95,13 @@ await conn.send2ButtonDoc(m.chat, cap, botdate, 'ALL MENU', '.? all', 'LIST MENU
     mediaUrl: hwaifu.getRandom(), 
     renderLargerThumbnail: true,
     showAdAttribution: false,
-    sourceId: '© 𝐖𝐚𝐧𝐧𝐳𝐱-𝐌𝐝 ',
+    sourceId: '© Jaya-Botz ',
     sourceType: 'PDF',
     previewType: 'PDF',
     sourceUrl: sgc,
     thumbnail: await(await fetch(wann)).buffer(),
     thumbnailUrl: sgc,
-    title: '𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌𝐃 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥',
+    title: 'Jaya-Botz',
 				}
 			}
 })
