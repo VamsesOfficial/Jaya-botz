@@ -58,7 +58,7 @@ let fpayment = {
       "requestFrom": "0@s.whatsapp.net",
       "noteMessage": {
         "extendedTextMessage": {
-          "text": "Jaya-𝐁𝐨𝐭𝐳"
+          "text": "𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌𝐃 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥"
         }
       },
       "expiryTimestamp": fsizedoc,
@@ -84,7 +84,7 @@ let fliveLoc22 = {
            }
 /*let litch = fs.readFileSync('./mp3/Bot.opus')
 let imgloc = 'https://telegra.ph/file/4d4f611baff7d92ec5e81.mp4'*/
-conn.reply(m.chat, `Sabar Tod....`, m)
+conn.reply(m.chat, `Sedang Memuat....`, m)
 await conn.send2ButtonDoc(m.chat, cap, botdate, 'ALL MENU', '.? all', 'LIST MENU', '.listmenu', ftoko, {
 			contextInfo: {
 				forwardingScore: fsizedoc,
@@ -95,13 +95,13 @@ await conn.send2ButtonDoc(m.chat, cap, botdate, 'ALL MENU', '.? all', 'LIST MENU
     mediaUrl: hwaifu.getRandom(), 
     renderLargerThumbnail: true,
     showAdAttribution: false,
-    sourceId: '© Jaya-Botz ',
+    sourceId: '© 𝐖𝐚𝐧𝐧𝐳𝐱-𝐌𝐝 ',
     sourceType: 'PDF',
     previewType: 'PDF',
     sourceUrl: sgc,
     thumbnail: await(await fetch(wann)).buffer(),
     thumbnailUrl: sgc,
-    title: 'Jaya-BOTZ 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥',
+    title: '𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌𝐃 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥',
 				}
 			}
 })
