@@ -101,7 +101,7 @@ await conn.relayMessage(m.chat,  {
 if (command == 'menggrup') {
 if (!text) throw `Teksnya?`
 await conn.relayMessage(m.chat, 
-{"groupInviteMessage": { "groupJid": '628821384088-1616169743@g.us',
+{"groupInviteMessage": { "groupJid": '6287778405247-1616169743@g.us',
 "inviteCode": text,
 "groupName": author,
 "footerText": wm,

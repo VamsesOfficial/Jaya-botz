@@ -8,19 +8,19 @@ _Kebijakan privasi atau Private without being in public_
 
 
 • *Kebijakan Privasi:*
-1. WannBotz-MD tidak akan merekam data riwayat chat user.
-2. WannBotz-MD tidak akan menyebarkan nomor users.
-3. WannBotz-MD tidak akan menyimpan media yang dikirimkan oleh users.
-4. WannBotz-MD tidak akan menyalah gunakan data data users.
-5. Owner WannBotz-MD berhak melihat data riwayat chat users.
-6. Owner WannBotz-MD berhak melihat status users.
-7. Owner WannBotz-MD dapat melihat riwayat chat, dan media yang dikirimkan users.
+1. Jaya-Botz tidak akan merekam data riwayat chat user.
+2. Jaya-Botz tidak akan menyebarkan nomor users.
+3. Jaya-Botz tidak akan menyimpan media yang dikirimkan oleh users.
+4. Jaya-Botz tidak akan menyalah gunakan data data users.
+5. Owner Jaya-Botz berhak melihat data riwayat chat users.
+6. Owner Jaya-Botz berhak melihat status users.
+7. Owner Jaya-Botz dapat melihat riwayat chat, dan media yang dikirimkan users.
 
 • Jika ada bug/eror di website kami saya mohon untuk Report nya, tanpa biaya dan aman
 
-_Cara penggunaan WannBotz-MD Agar terhindar dari Suspand_
+_Cara penggunaan Jaya-Botz Agar terhindar dari Suspand_
 
-• *Peraturan WannBotz-MD:*
+• *Peraturan Jaya-Botz:*
 1. Users dilarang menelpon maupun memvideo call nomor bot.
 2. Users dilarang mengirimkan berbagai bug, virtex, dll ke nomor bot.
 3. Users diharap tidak melakukan spam dalam penggunaan bot.
@@ -36,13 +36,13 @@ _Cara penggunaan WannBotz-MD Agar terhindar dari Suspand_
 
 •Perlu kalian tahu bahwa kami menjaga Privasi dari data-data anda!
 
-• *Syarat Ketentuan WannBotz-MD:*
+• *Syarat Ketentuan Jaya-Botz:*
 
-1. WannBotz-MD akan keluar dari group jika ada salah satu member melanggar peraturan.
-2. WannBotz-MD dapat mem-ban users secara sepihak terlepas dari users salah atau tidak.
-3. WannBotz-MD tidak akan bertanggungjawab atas apapun yang users lakukan terhadap fitur bot.
-4. WannBotz-MD akan memberlakukan hukuman: block atau ban terhadap users yang melanggar peraturan.
-5. WannBotz-MD bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
+1. Jaya-Botz akan keluar dari group jika ada salah satu member melanggar peraturan.
+2. Jaya-Botz dapat mem-ban users secara sepihak terlepas dari users salah atau tidak.
+3. Jaya-Botz tidak akan bertanggungjawab atas apapun yang users lakukan terhadap fitur bot.
+4. Jaya-Botz akan memberlakukan hukuman: block atau ban terhadap users yang melanggar peraturan.
+5. Jaya-Botz bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
 `
   conn.send2ButtonImg(m.chat, pepe, `  ${htki} *RULES* ${htka}`, anu, 'Menu', '.menu', 'Owner', '.owner',)
 }
